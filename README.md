@@ -1,4 +1,8 @@
-# madgordi72.github.io
+# Hello, I'm Madeleine
+
+<a href="https://www.linkedin.com/in/madeleine-gordillo-9b0554307">
+  <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/3-1.png" alt="LinkedIn" width="100"/>
+</a>
 
 | Name | Madeleine Gordillo| 
 |------|-------------------|
