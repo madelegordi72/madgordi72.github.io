@@ -11,6 +11,13 @@
 | Detection Lab | 
 ## Certifications
 
+<div>
+  <!-- CompTIA Security+ -->
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white" alt="CompTIA Security+ Badge"/>
+
+  <!-- CompTIA CySA+ -->
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia&logoColor=white" alt="CompTIA CySA+ Badge"/>
+</div>
 
 ## Projects 
 
