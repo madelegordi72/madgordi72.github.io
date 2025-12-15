@@ -8,7 +8,7 @@
 |------|-------------------|
 | Introduction|I am a junior with a profound interest in effecitvly using frameworks to benefits the consumer and the staff workflow.|
 | Hobbies | I like early mornings and going to concerts with  my friends. |
-| Detection Lab | 
+
 ## Certifications
 
 <div>
@@ -24,5 +24,5 @@
 |Skill | Associated Project | 
 |------|-------------------|
 |Data Transformation| <a href= "https://github.com/madelegordi72/Power-Bi/tree/main"> Data Transformation </a> | 
-|NEtwork Traffic Monitoring and Attack Detection| link here| 
-| Cyber Policy Analysis Site| link here | 
+|Network Traffic Monitoring and Attack Detection| link here| 
+| Cyber Incident Analysis| link here | 
