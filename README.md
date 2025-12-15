@@ -23,6 +23,6 @@
 
 |Skill | Associated Project | 
 |------|-------------------|
-|Data Transformation| <a href= "https://github.com/madelegordi72/Power-Bi/tree/main"> Data Transformation </a> | 
 |Network Traffic Monitoring and Attack Detection| link here| 
-| Cyber Incident Analysis| link here | 
+| Cyber Incident Analysis| <a href = "https://github.com/madelegordi72/Cyber-risk-sector-analysis.git"> RStudio Analysis </a> | 
+|Data Transformation| <a href= "https://github.com/madelegordi72/Power-Bi/tree/main"> PowerBi Transformation </a> | 
