@@ -23,6 +23,6 @@
 
 |Skill | Associated Project | 
 |------|-------------------|
-|Network Traffic Monitoring and Attack Detection| link here| 
+|Network Traffic Monitoring and Attack Detection| <a href = "https://github.com/madelegordi72/Cyber-risk-sector-analysis"> Python Log Detection </a>| 
 | Cyber Incident Analysis| <a href = "https://github.com/madelegordi72/Cyber-risk-sector-analysis.git"> RStudio Analysis </a> | 
 |Data Transformation| <a href= "https://github.com/madelegordi72/Power-Bi/tree/main"> PowerBi Transformation </a> | 
