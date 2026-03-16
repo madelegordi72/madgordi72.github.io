@@ -6,8 +6,8 @@
 
 | Name | Madeleine Gordillo| 
 |------|-------------------|
-| Introduction|I am a junior with a profound interest in effecitvly using frameworks to benefits the consumer and the staff workflow on minimal risk.|
-| Hobbies | I like early mornings and going to concerts with  my friends. |
+| Introduction|I am a junior with a profound interest in effectively using frameworks that enahcnes the consumer and the staff workflow on minimal risk mindset.|
+| Hobbies | I like early mornings and going to concerts with my friends. |
 
 ## Certifications
 
