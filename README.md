@@ -26,3 +26,10 @@
 |Network Traffic Monitoring and Attack Detection| <a href = "https://github.com/madelegordi72/Detection-Lab-"> Python Log Detection </a>| 
 | Cyber Incident Analysis| <a href = "https://github.com/madelegordi72/Cyber-risk-sector-analysis.git"> RStudio Analysis </a> | 
 |Data Transformation| <a href= "https://github.com/madelegordi72/Power-Bi/tree/main"> PowerBi Transformation </a> | 
+
+## Reporting
+
+|Skill | Associated Summary|
+|------|-------------------|
+|Cybersecurity technical and overview reporoting| <a href = "https://github.com/madelegordi72/Summary-of-Ubisoft-Database-Breach"> Database Breach 2025 </a> | 
+|Docker to Ansible Documenation| | 
