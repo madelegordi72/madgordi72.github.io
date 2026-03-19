@@ -19,6 +19,14 @@
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia&logoColor=white" alt="CompTIA CySA+ Badge"/>
 </div>
 
+## AWS IAM Projects
+
+|Skill | Associated Project | 
+|------|-------------------|
+|Role-Based Access Control| |
+|Identity in EC2| |
+| AWS v.s Azure| |
+
 ## Projects 
 
 |Skill | Associated Project | 
