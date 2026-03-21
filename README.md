@@ -23,9 +23,8 @@
 
 |Skill | Associated Project | 
 |------|-------------------|
-|Role-Based Access Control| |
-|Identity in EC2| |
-| AWS v.s Azure| |
+|Role-Based Access Control| <a href = "https://github.com/madelegordi72/project-1-iam-rbac.git" > Setting up EC2 with practical parameters |
+
 
 ## Projects 
 
