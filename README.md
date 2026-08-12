@@ -6,7 +6,7 @@
 
 | Name | Madeleine Gordillo| 
 |------|-------------------|
-| Introduction|I am a junior with a profound interest in effectively using frameworks that enahcnes the consumer and the staff workflow on minimal risk mindset.|
+| Introduction I am a rising senior at George Mason University pursing a B.A.S in Cybersecurity my portfolio highlights hands-on projects in cloud security, vulnerability assessments, AWS, Written topics, and Digital Forensics.|
 | Hobbies | I like early mornings and going to concerts with my friends. |
 
 ## Certifications
@@ -19,11 +19,18 @@
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia&logoColor=white" alt="CompTIA CySA+ Badge"/>
 </div>
 
-## AWS IAM Projects
+## AWS Projects
 
 |Skill | Associated Project | 
 |------|-------------------|
 |Role-Based Access Control| <a href = "https://github.com/madelegordi72/project-1-iam-rbac.git" > Setting up EC2 with practical parameters |
+|Leverage CloudWatch Metrics and Alarms| <a href = "https://github.com/madelegordi72/CloudWatch.git" > Monitoring EC2 CPU Utilization |
+|Serving Web Server with Availability and Scalability| <a href = "https://github.com/madelegordi72/AWS-Availability-and-Scalability.git" > Automated Scaling with Load Balancers to provide Web server with Availability and Scalability |
+|Hosting Web application from Docker Image| <a href = "https://github.com/madelegordi72/Web-Application-Docker-.git" > Docker Linux machine hosting Web application |
+|Web Server Lauch inside Virtual Private Cloud| <a href = "https://github.com/madelegordi72/AWS-Web-Server-with-VPC.git" > Create a VPC then launch Web Server |
+|Backup for Instances| <a href = "https://github.com/madelegordi72/AWS-EBS-Backups-.git" > Attach EBS Volume to EC2 instance and provision snapshots |
+|Relational Database setup with Web Server| <a href = "https://github.com/madelegordi72/AWS-Relational-Databases-Web-Server.git" > Setting up RDS to be configured to Apache Web Server |
+|Implementation least of privilege users for S3 | <a href = "https://github.com/madelegordi72/AWS-S3-Least-of-Privilege-.git" > User onboarding S3 access control |
 
 
 ## Projects 
