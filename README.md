@@ -7,7 +7,7 @@
 | Name | Madeleine Gordillo| 
 |------|-------------------|
 | Introduction I am a rising senior at George Mason University pursing a B.A.S in Cybersecurity my portfolio highlights hands-on projects in cloud security, vulnerability assessments, AWS, Written topics, and Digital Forensics.|
-| Hobbies | I like early mornings and going to concerts with my friends. |
+| Hobbies | I like early mornings and going to enjoy tacos with my friends. |
 
 ## Certifications
 
